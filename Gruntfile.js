@@ -13,7 +13,7 @@ module.exports = function (grunt) {
     var yeomanConfig = {
         app: 'app',
         dist: 'build',
-        name: "angular-d3"
+        name: "angular-d3-directives-master"
     };
 
     try {
